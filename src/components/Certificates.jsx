@@ -6,13 +6,13 @@ export default function Certificates() {
       title: "Carrera de Front-End",
       image: "/certificates/certificado-carrera.png",
       note: "Nota Promedio = 9.33",
-      description: "",
+      description: "Desarrollo de la carrera de Front End React",
     },
     {
       title: "Desarrollo Web",
       image: "/certificates/certificado-desarrollo-web.png",
       note: "Nota Final = 9",
-      description: "HTML, CSS Avanzado, uso de Bootstrap, GitHub, SASS Avanzado, SEO básico.",
+      description: "HTML, CSS Avanzado, uso de Bootstrap, Github, SASS Avanzado, SEO básico.",
     },
     {
       title: "Javascript",
