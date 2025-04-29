@@ -11,9 +11,9 @@
     background: transparent;
     opacity: 1;
     pointer-events: auto;
+    background-color: black;
   }
 
     .navbar a.nav-link:hover {
     text-decoration: underline;
   }
-  

@@ -20,8 +20,8 @@ export default function Navbar() {
         <a className="navbar-brand text-white" href="#inicio">Marcos Turcis - Portfolio</a>
         <div className="d-flex gap-4">
           <a className="nav-link d-inline text-white" href="#about">Sobre mí</a>
-          <a className="nav-link d-inline text-white" href="#projects">Proyectos</a>
           <a className="nav-link d-inline text-white" href="#certificates">Certificados</a>
+          <a className="nav-link d-inline text-white" href="#projects">Proyectos</a>
         </div>
       </div>
     </nav>
