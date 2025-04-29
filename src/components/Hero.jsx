@@ -5,6 +5,7 @@ function Hero() {
         <h1>
           Marcos Turcis<span className="cursor"></span>
         </h1>
+        <h2 className="subtitle">Estudiante de Ingenieria Informatica</h2>
         <h2 className="subtitle">Programador - Diseñador</h2>
       </div>
     </section>
