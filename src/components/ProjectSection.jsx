@@ -26,7 +26,7 @@ function ProjectSection() {
     <section className="projects">
       {projects.map((project, index) => (
         <div className="project-card" key={index}>
-          <img className="project-image" src={project.image} alt={project.title} />
+          <img className="project-image" src="https://placehold.co/600x400" /*{project.image}*/ alt={project.title} />
           <div className="project-details">
             <h3>{project.title}</h3>
             <p>{project.description}</p>

@@ -1,0 +1,10 @@
+.certificado img {
+    max-height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease; /* transición suave */
+  }
+  
+  .certificado img:hover {
+    transform: scale(1.05); /* agrandar levemente */
+  }
+  

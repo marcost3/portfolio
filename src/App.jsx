@@ -1,13 +1,20 @@
-import Hero from './components/Hero'
-import ProjectsSection from './components/ProjectSection'
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import About from './components/About'; 
+import ProjectSection from './components/ProjectSection';
+import Certificates from './components/Certificates';
+
 
 function App() {
   return (
     <>
+      <Navbar/>
       <Hero />
-      <ProjectsSection />
+      <About />
+      <Certificates/>
+      <ProjectSection />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
