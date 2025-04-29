@@ -12,4 +12,8 @@
     opacity: 1;
     pointer-events: auto;
   }
+
+    .navbar a.nav-link:hover {
+    text-decoration: underline;
+  }
   

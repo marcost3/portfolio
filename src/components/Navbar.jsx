@@ -18,7 +18,7 @@ export default function Navbar() {
     <nav className={`navbar fixed-top ${showNavbar ? 'navbar-visible' : 'navbar-hidden'}`}>
       <div className="container">
         <a className="navbar-brand text-white" href="#inicio">Mi Portfolio</a>
-        <div>
+        <div className="d-flex gap-4">
           <a className="nav-link d-inline text-white" href="#about">Sobre mí</a>
           <a className="nav-link d-inline text-white" href="#projects">Proyectos</a>
           <a className="nav-link d-inline text-white" href="#certificates">Certificados</a>
