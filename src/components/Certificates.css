@@ -7,7 +7,7 @@
   }
   
   .certificado img {
-    max-height: 300px;
+    max-height: 400px;
     object-fit: cover;
     transition: transform 0.3s ease;
   }

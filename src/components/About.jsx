@@ -6,8 +6,13 @@ const About = () => {
     <section className="about" id="about">
       <h2>Sobre mí</h2>
       <p>
-        Soy un programador y diseñador apasionado por crear experiencias digitales modernas, funcionales y visualmente atractivas. 
-        Me enfoco en el detalle, el rendimiento y la usabilidad, buscando siempre la mejor solución para cada proyecto.
+        Me llamo Marcos, soy estudiante de ingenieria informatica y toda la vida me intereso el mundo de la tecnologia.
+      </p>
+      <p>
+        Me apasiona crear nuevas experiencias que generen bienestar en el usuario, enfocandome en el detalle, el rendimiento y el dinamismo.
+      </p>
+      <p>
+        En mi dia a dia busco seguir formandome para seguir aprendiendo y adaptarme a cada necesidad que se presente.
       </p>
     </section>
   );
