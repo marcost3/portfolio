@@ -34,7 +34,7 @@ export default function Certificates() {
       <div className="row">
         {certificates.map((cert, index) => (
           <div key={index} className="col-md-6 mb-4 d-flex">
-            <div className="bg-dark p-3 rounded certificado d-flex flex-column justify-content-between w-100">
+            <div className="bg-dark p-4 rounded certificado d-flex flex-column justify-content-between w-100">
               <div>
                 <img src={cert.image} alt={cert.title} className="img-fluid rounded mb-3" />
                 <h5>{cert.title}</h5>
