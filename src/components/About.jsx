@@ -6,7 +6,7 @@ const About = () => {
     <section className="about" id="about">
       <h2>Sobre mí</h2>
       <p>
-        Me llamo Marcos, soy estudiante de ingenieria informatica y toda la vida me intereso el mundo de la tecnologia.
+        Me llamo Marcos, tengo 21 años, soy estudiante de ingenieria informatica y toda la vida me intereso el mundo de la tecnologia.
       </p>
       <p>
         Me apasiona crear nuevas experiencias que generen bienestar en el usuario, enfocandome en el diseño, el detalle y el dinamismo.
