@@ -1,6 +1,6 @@
 function Hero() {
   return (
-    <section className="hero">
+    <section className="hero" id="inicio">
       <div className="hero-content text-center d-flex flex-column justify-content-center align-items-center vh-100">
         <h1 className="text-white fs-1 fs-md-display-4 fs-lg-display-1 fade-in">
           Marcos Turcis<span className="cursor"></span>

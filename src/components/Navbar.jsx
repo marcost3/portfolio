@@ -22,6 +22,7 @@ export default function Navbar() {
           <a className="nav-link d-inline text-white" href="#about">Sobre mí</a>
           <a className="nav-link d-inline text-white" href="#certificates">Certificados</a>
           <a className="nav-link d-inline text-white" href="#projects">Proyectos</a>
+          <a className="nav-link d-inline text-white" href="#contacto">Contacto</a>
         </div>
       </div>
     </nav>

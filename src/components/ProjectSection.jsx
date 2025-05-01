@@ -23,7 +23,7 @@ const projects = [
 
 function ProjectSection() {
   return (
-    <section className="projects py-5 bg-black text-white">
+    <section className="projects py-5 bg-black text-white" id="projects">
       <div className="container">
         <h2 className="mb-4">Proyectos</h2>
         {projects.map((project, index) => (
