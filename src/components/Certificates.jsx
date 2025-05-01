@@ -12,7 +12,7 @@ export default function Certificates() {
       title: "Desarrollo Web",
       image: "/certificates/certificado-desarrollo-web.png",
       note: "Nota Final = 9",
-      description: "HTML, CSS Avanzado, uso de Bootstrap, Github, SASS Avanzado, SEO básico.",
+      description: "HTML, CSS Avanzado, Figma, Canva, uso de Bootstrap, Github, SASS Avanzado, SEO básico.",
     },
     {
       title: "Javascript",

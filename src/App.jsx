@@ -3,6 +3,7 @@ import Hero from './components/Hero';
 import About from './components/About'; 
 import ProjectSection from './components/ProjectSection';
 import Certificates from './components/Certificates';
+import ContactForm from './components/ContactForm';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <About />
       <Certificates/>
       <ProjectSection />
+      <ContactForm/>
     </>
   );
 }

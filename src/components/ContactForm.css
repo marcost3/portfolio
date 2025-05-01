@@ -1,0 +1,18 @@
+#contacto input,
+#contacto textarea {
+  background-color: #111;
+  border: 1px solid #444;
+  color: white;
+}
+
+#contacto input::placeholder,
+#contacto textarea::placeholder {
+  color: #aaa;
+}
+
+#contacto input:focus,
+#contacto textarea:focus {
+  border-color: #fff;
+  outline: none;
+  background-color: #1a1a1a;
+}

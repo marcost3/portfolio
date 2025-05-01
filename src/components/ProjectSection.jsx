@@ -5,19 +5,19 @@ const projects = [
     title: 'Sitio Web de Car Wash',
     description: 'Landing page lavadero de autos, con informacion del local y turnero.',
     image: '/projects/project1.jpg',
-    tech: ['HTML', 'SASS', 'JavaScript', 'Bootstrap']
+    tech: ['HTML', 'SASS', 'JavaScript', 'Bootstrap', 'SEO Basico']
   },
   {
     title: 'E-commerce de Autos',
     description: 'Plataforma de venta de autos dinamica con carrito y checkout integrado.',
     image: '/projects/project2.jpg',
-    tech: ['React', 'Firebase', 'Bootstrap']
+    tech: ['React', 'JSX', 'Firebase', 'Bootstrap']
   },
   {
     title: 'Portfolio Personal',
     description: 'Sitio personal para mostrar proyectos como desarrollador y diseñador.',
     image: '/projects/project3.jpg',
-    tech: ['React', 'CSS', 'Framer Motion']
+    tech: ['React', 'JSX', 'API`s']
   }
 ]
 
