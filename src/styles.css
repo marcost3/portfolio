@@ -126,3 +126,19 @@ h2 {
     transform: translateY(0);
   }
 }
+
+.hero-buttons .btn {
+  transition: color 0.3s ease;
+}
+
+.hero-buttons .btn:hover {
+  color: #0dcaf0; /* celeste Bootstrap hover */
+}
+
+
+.hero-divider {
+  border: none;
+  border-top: 5px solid rgb(255, 255, 255);
+  width: 100%;
+  margin: 1rem;
+}
