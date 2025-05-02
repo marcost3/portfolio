@@ -40,6 +40,11 @@ function ContactForm() {
         </div>
         <button type="submit" className="btn btn-outline-light">Enviar</button>
       </form>
+      <div className="text-center mt-4 text-white">
+    <p>
+        📧 <a href="mailto:turcismarcos@gmail.com" className="text-white text-decoration-none">turcismarcos@gmail.com</a>
+    </p>
+    </div>
     </section>
   );
 }
