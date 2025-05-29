@@ -14,8 +14,8 @@ const projects = [
     tech: ['React', 'JSX', 'Firebase', 'Bootstrap']
   },
   {
-    title: 'Portfolio Personal',
-    description: 'Sitio personal para mostrar proyectos como desarrollador y diseñador.',
+    title: 'Portfolio de fotografo',
+    description: 'Sitio personal de Marco, fotógrafo especializado en retratos industriales y urbanos.',
     image: '/projects/project3.jpg',
     tech: ['React', 'JSX', 'API`s']
   }
